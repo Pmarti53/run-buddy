@@ -1,8 +1,9 @@
 # Run Buddy, Inc
 
 ## Description 
-A website that offers fitness training services to display front-end engineering and design implementation. 
+A website that offers fitness training services to display front-end engineering and design implementation.
 
+## Website
 Live Version can be found here: https://pmarti53.github.io/run-buddy/
 
 <img width="900" alt="run-buddy" src="https://user-images.githubusercontent.com/77707292/136708127-cedaf379-84c8-4834-bf26-ec08aae6adde.png">
